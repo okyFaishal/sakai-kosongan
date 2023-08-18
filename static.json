@@ -1,0 +1,16 @@
+{
+  "master": {
+    "logo_app": "/images/report.png",
+    "name_app": "SAKAI"
+  },
+  "data_static": {
+    "jenis_kategori": [
+      { "value":"permohonan", "text": "PERMOHONAN" },
+      { "value":"pengaduan", "text": "PENGADUAN" }
+    ]
+  },
+  "pagination": {
+    "row": 10,
+    "perPage": [10, 20, 50, 100]
+  }
+}
